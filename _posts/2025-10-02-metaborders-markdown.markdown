@@ -6,7 +6,7 @@ image: '/images/posts/checkpoint_image.png'
 image_caption: Woodlands Checkpoint in Singapore.
 date: 2025-10-02
 tags: [Environmental Microbiome, Borders]
-author: [Jonathan Teo]
+author: [jon]
 ---
 
 **Imagine painting a map of Singapore’s borders, not with ink, but with microbes.**  
