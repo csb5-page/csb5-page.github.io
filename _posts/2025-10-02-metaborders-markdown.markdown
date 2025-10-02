@@ -25,6 +25,6 @@ Most of the microbes we expect to find are harmless, but together they create a 
 
 **The journey has just begun, and the microbes are already on the move. Follow us as we trace their hidden paths across Singapore’s borders.**  
 
-![](./images/checkpoint_sampling_workflow.png)  
+![](./images/posts/checkpoint_sampling_workflow.png)  
 
 *From checkpoint to lab: swabs and air samplers capture invisible life, which is then revealed through DNA sequencing.*  
