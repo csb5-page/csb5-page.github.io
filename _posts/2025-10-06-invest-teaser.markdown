@@ -6,7 +6,7 @@ image: '/images/posts/2025-10-06-invest-teaser/antoine-dore-science-gut-microbio
 image_caption: Antoine Dore - https://www.antoinedore.com/.
 date: 2025-10-06
 tags: [Gut Microbiome]
-author: [jean-sebastien]
+author: [jsg]
 ---
 
 Until further discoveries, antibiotics remain essential components to rescue ourselves from harmful bacteria. Their recurrent usage is, however, well known to be linked to a global resistance, reducing in fine their benefit. It is therefore crucial to build a comprehensive understanding of how antibiotics affect the human body and how different antibiotics or modes of administration can lead to similar or different results. Such knowledge can guide more judicious use, improving patient care while helping to limit overall antibiotic consumption.
