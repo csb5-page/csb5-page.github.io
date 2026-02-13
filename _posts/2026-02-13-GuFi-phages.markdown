@@ -14,7 +14,7 @@ The human gut microbiome harbors an immense diversity of bacteriophages (phages)
 
 We found *drastically* improved viral recovery with the addition of long-read sequencing, which is often due to viral genomes being frequently fragmented in short-read assemblies.
 
-   <img src="/images/posts/2026-02-13-GuFi-phages/Fig1B.png" width="300">
+   <img src="/images/posts/2026-02-13-GuFi-phages/Fig1B.png" width="600">
 
 Viral family-level clustering revealed that almost all of the most prevalent phage families in this cohort have not been described before (11 of the top 12).
 
