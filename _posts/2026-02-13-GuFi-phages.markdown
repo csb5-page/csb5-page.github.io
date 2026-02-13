@@ -18,26 +18,26 @@ We found *drastically* improved viral recovery with the addition of long-read se
 
 Viral family-level clustering revealed that almost all of the most prevalent phage families in this cohort have not been described before (11 of the top 12).
 
-   ![](https://pbs.twimg.com/media/G_5wduLbgAABVph?format=png&name=large)
+   ![](https://pbs.twimg.com/media/G_5wduLbgAABVph?format=png&name=medium)
 
 A first guess is that phage clades are population-specific and lurk only within Singaporean microbiomes. Surprisingly, many of these families are in fact highly prevalent globally (>20%)!
 
-   ![](https://pbs.twimg.com/media/G_5wesVbgAEhks5?format=png&name=large)
+   ![](https://pbs.twimg.com/media/G_5wesVbgAEhks5?format=png&name=medium)
 
 Many of these families have broad Firmicutes host ranges; these so-called GuFi phages highlight how much we don't yet know about phage diversity in the gut microbiome.
 
-   ![](https://pbs.twimg.com/media/G_5ylsYbQAAoTBx?format=png&name=large)
+   ![](https://pbs.twimg.com/media/G_5ylsYbQAAoTBx?format=png&name=medium)
 
 Intriguingly, while many of these families are temperate, meaning they spend part of their life cycle in a dormant state, we find that some frequently induce and actively replicate.
 
-   ![](https://pbs.twimg.com/media/G_5ym75bkAARwXM?format=png&name=large)
+   ![](https://pbs.twimg.com/media/G_5ym75bkAARwXM?format=png&name=medium)
 
 Our efforts have also let to the induction and TEM imaging of several of these families.
 
-   ![](https://pbs.twimg.com/media/G_50TMRbIAAu3b-?format=png&name=large)
+   ![](https://pbs.twimg.com/media/G_50TMRbIAAu3b-?format=png&name=medium)
 
 We studied many factors that could explain the high prevalence of these families, including the presence of diversity generating retroelements (DGRs), which aid in host range expansion and immune evasion.
 
-   ![](https://pbs.twimg.com/media/G_50UHiaAAA4iGN?format=jpg&name=large)
+   ![](https://pbs.twimg.com/media/G_50UHiaAAA4iGN?format=jpg&name=medium)
 
 Our study emphasizes the utility of long reads for viral discovery, and highlights globally prevalent phage clades that likely have a greater impact in the gut microbiome than previously appreciated.
