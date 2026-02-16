@@ -26,21 +26,15 @@ menu__settings:
     - title: 'Publications'
       url: '/publications/'
     - title: 'Resources'
-      submenu:
-      - title: 'Software'
-        url: '/software/'
-      - title: 'Pipelines'
-        url: '/pipelines/'
-      - title: 'Datasets'
-        url: '/datasets/'
+      url: '/resources/'
     - title: 'People'
       submenu:
       - url: '/members/'
         title: 'Members'
       - url: '/alumni/'
         title: 'Alumni'
-      - url: '/open-positions/'
-        title: 'Join us'
+      - url: '/interns/'
+        title: 'Interns'
 
 
 #-------------------------------

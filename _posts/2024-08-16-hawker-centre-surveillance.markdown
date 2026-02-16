@@ -6,9 +6,10 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hawker_Center%
 image_caption: A hawker center in Singapore (from wikipedia.org).
 date: 2024-08-16
 tags: [Environmental Microbiomes]
-preprint: https://www.medrxiv.org/content/10.1101/2024.07.28.24310840v1
+paper: https://www.nature.com/articles/s44259-025-00132-0
+publication: npj antimicrobials and resistance
 code: https://github.com/CSB5/food_centre_microbiome
-author: [jon, amanda, shaun, niranjan]
+author: [jonathan-teo, eliza-ho, amanda-ng, shaun-how, kern-rei-chng, niranjan-nagarajan]
 ---
 
 Excited to share our work on city-wide metagenomic surveillance of hawker centres in Singapore!
